@@ -8,7 +8,7 @@ This is research code implementing "basic" path homology in MATLAB. The key file
     pathhomology.m      (path homology)
     reashortestpaths.m  (K shortest paths, using the REA algorithm)
     README-PH.txt       (this file)
-    removeloopsisos.m  (useful to preprocess digraphs)
+    removeloopsisos.m   (useful to preprocess digraphs)
 
 **EXAMPLE** 
 To run on an interesting example, try
