@@ -1,7 +1,7 @@
 **README**
 
 **OVERVIEW**
-This is research code implementing "basic" path homology in MATLAB. The key file is pathhomology.m, but this calls reashortestpaths.m. For a more performant and capable implementation building on this one and written by M. Yutin, see a similarly named repository in https://github.com/SteveHuntsmanBAESystems
+This is research code implementing "basic" path homology in MATLAB. The key file is pathhomology.m, but this calls reashortestpaths.m. For a more performant and capable implementation building on this one and written by M. Yutin, see https://github.com/SteveHuntsmanBAESystems/PerformantPathHomology
 
 **CONTENTS**
 
