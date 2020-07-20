@@ -21,7 +21,7 @@ To run on an interesting example, try
 **TIPS**
 Be careful about the size of input graphs and top dimension. Currently there are no provisions in the code to abort if things will get too big. This is left as an exercise.
 
-Also, note that this code makes use of svds (though there are commented lines that enable symbolic computation if the toolbox is available), and this sometimes leads to numerical errors, e.g., a negative Betti number. 
+Also, note that this code makes use of svds (via rank, though there are commented lines that enable symbolic computation if the toolbox is available), and this sometimes leads to numerical errors, e.g., a negative Betti number. 
 
 **CITE**
 If you use this code in your work, please cite it. I would also personally like to hear about your application, evaluation, etc.    
